@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "satellite-view-1",
+      "description": "Satellite view of a mining area with surrounding vegetation.",
+      "imageUrl": "https://picsum.photos/seed/satellite1/1200/800",
+      "imageHint": "satellite mine"
+    }
+  ]
+}
